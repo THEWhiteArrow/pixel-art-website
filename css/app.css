@@ -1,3 +1,15 @@
+html{
+    min-height: 100vh;
+}
+body{
+    min-height: 100vh;
+    height:100% !important;
+}
+
 #headerLogo{
     width: clamp(100px,80%,500px);
+}
+
+footer{
+    width:100% !important;
 }
